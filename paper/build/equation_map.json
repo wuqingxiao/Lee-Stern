@@ -1,0 +1,68 @@
+{
+  "displays": [
+    {
+      "number": "2.1",
+      "tex": "|a|_L=\\min\\{a,p-a\\},\\qquad \\operatorname{wt}_L(v)=\\sum_{j=0}^{n-1}|v_j|_L."
+    },
+    {
+      "number": "2.2",
+      "tex": "S_C=\\{e\\in\\mathbb F_p^n:\\#\\{j:e_j=a\\}=c_a\\ \\forall a\\in\\mathbb F_p\\},\\qquad\n|S_C|=\\frac{n!}{\\prod_a c_a!},\\qquad w_C=\\sum_a c_a|a|_L."
+    },
+    {
+      "number": "2.3",
+      "tex": "\\Delta_T=1-\\sum_{C\\in\\mathcal C(T)}\\left(\\frac{|S_C|}{|S_T|}\\right)^2\n=1-\\prod_{i=1}^{r}\\frac{\\binom{2m_i}{m_i}}{4^{m_i}}."
+    },
+    {
+      "number": "3.1",
+      "tex": "\\begin{aligned}\n\\mathsf{cm}_1&=\\operatorname{Hash}(\\sigma\\parallel Hu\\parallel\\rho_1),\\\\\n\\mathsf{cm}_2&=\\operatorname{Hash}(P_\\sigma u\\parallel\\rho_2),\\\\\n\\mathsf{cm}_3&=\\operatorname{Hash}(P_\\sigma z\\parallel\\rho_3).\n\\end{aligned}"
+    },
+    {
+      "number": "3.2",
+      "tex": "\\text{求 }\\pi\\in S_n\\text{，使 }H P_\\pi e_{\\rm base}=s."
+    },
+    {
+      "number": "4.1",
+      "tex": "\\sigma_0=\\sigma_1=\\sigma,\\quad Hu_0=Hz_1-s,\\quad\ny_2=P_\\sigma u_0,\\quad P_\\sigma z_1=v_2+y_2."
+    },
+    {
+      "number": "4.2",
+      "tex": "\\operatorname{Adv}_{\\rm imp}(\\mathcal A)\\le \\operatorname{Adv}_{\\rm FCSD}(\\mathcal B)+(2/3)^N+\\operatorname{Adv}_{\\rm bind}(\\mathcal D_{\\rm bind})+\\sum_{j=1}^{J}\\Delta_H(\\mathcal D_j)+L(2/3)^T."
+    },
+    {
+      "number": "5.1",
+      "tex": "N_C(d,\\omega)=d![x^dy^\\omega]\\prod_{a=0}^{p-1}\n\\left(\\sum_{j=0}^{c_a}\\frac{x^jy^{j|a|_L}}{j!}\\right),\\qquad N_C(n,w_C)=|S_C|."
+    },
+    {
+      "number": "5.2",
+      "tex": "\\Pr[\\operatorname{comp}(e_I)=D]=\\frac{\\prod_a\\binom{c_a}{d_a}}{\\binom nd},\\qquad\n\\mathbb E[t^{\\operatorname{wt}_L(e_I)}]=\\frac{[x^d]\\prod_a(1+xt^{|a|_L})^{c_a}}{\\binom nd}."
+    },
+    {
+      "number": "5.3",
+      "tex": "2\\le\\ell<n-k,\\quad1\\le \\ell_2<\\ell,\\quad w_i\\ge1,\\quad\n0<w_{\\rm int}<w_C,\\quad0<\\tau<jr,\\quad0<2w_i<hr."
+    },
+    {
+      "number": "5.4",
+      "tex": "\\begin{aligned}\nC_{\\rm iter}={}&\\beta^2m^2(n+1)+\\beta\\{2\\ell(U_1+U_2)+\\Lambda_2+\\Lambda_1\\Lambda_2/p^{\\ell_2}\\}\n+2\\Lambda_2\\log_2 \\Lambda_2\\\\\n&+(\\beta^2+\\beta)d\\frac{\\tau+1}{\\mu}\\frac{\\Lambda_1^2\\Lambda_2^2}{p^{\\ell+\\ell_2}},\\\\\nP_{\\rm th}={}&\\frac{D_1D_2\\mathsf S_p(j,\\tau)}{\\mathsf S_p(n,w_C)},\\qquad W_{\\rm th}=C_{\\rm iter}/P_{\\rm th}.\n\\end{aligned}"
+    },
+    {
+      "number": "5.5",
+      "tex": "Z_{C,d}(t)=[x^d]\\prod_a(1+xt^{|a|_L})^{c_a},\\quad\nB_{C,d,w_{\\rm int}}(t)=\\min\\left\\{1,\\frac{Z_{C,d}(t)}{\\binom nd\\,t^{w_{\\rm int}}}\\right\\},\\quad0<t<1."
+    },
+    {
+      "number": "5.6",
+      "tex": "P_{\\rm any}\\le U_C(t):=\\min\\{1,B_{C,d,w_{\\rm int}}(t)+\\delta_C\\},\\qquad\n\\delta_C=\\min\\left\\{1,(|S_C|-1)\\frac{p^k-1}{p^n-1}\\right\\}."
+    },
+    {
+      "number": "5.7",
+      "tex": "\\begin{aligned}\n(c_0,\\ldots,c_{11})&=(108,78,55,38,28,20,13,10,8,5,3,2),\\\\\n(c_{238},\\ldots,c_{250})&=(2,2,2,5,5,7,10,15,20,30,40,57,77).\n\\end{aligned}"
+    },
+    {
+      "number": "5.8",
+      "tex": "\\begin{aligned}\ns_M(d)&=\\max\\{2,\\lceil D_M(d)/2\\rceil\\},\\quad b_M(d)=\\lceil s_M(d)/2\\rceil,\\\\\n\\mathcal D_M&=\\{d=k_M+\\ell\\in2\\mathbb Z:2\\le\\ell<n_M-k_M,\\ 2s_M(d)<t_M,\\ 2b_M(d)<(d/2)r\\},\\\\\nL_*&=\\min_{M\\in\\mathcal M_C}\\min_{d\\in\\mathcal D_M}\\mathsf S_p(d/2,b_M(d)).\n\\end{aligned}"
+    },
+    {
+      "number": "6.1",
+      "tex": "\\begin{aligned}\n(c_0,\\ldots,c_7)&=(78,42,22,11,6,3,1,1),\\\\\n(c_{243},\\ldots,c_{250})&=(1,1,2,4,7,12,23,42).\n\\end{aligned}"
+    }
+  ]
+}

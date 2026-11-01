@@ -1,0 +1,4 @@
+{"name": "p251_n1024_k512_geometric2_scaled", "d": 1020, "t2_med": {"beta": 854, "adps16": 249.4, "matzov": 266.9}, "t8_q01": {"beta": 836, "adps16": 244.1, "matzov": 262.0}}
+{"name": "p251_n640_k320_8ee9e91cdd53", "d": 640, "t2_med": {"beta": 522, "adps16": 152.4, "matzov": 173.7}, "t8_q01": {"beta": 504, "adps16": 147.2, "matzov": 168.9}}
+{"name": "p251_n640_k320_3b4c3ac5fd62", "d": 640, "t2_med": {"beta": 598, "adps16": 174.6, "matzov": 193.4}, "t8_q01": {"beta": 580, "adps16": 169.4, "matzov": 188.9}}
+{"name": "p251_n640_k320_a17a2941ee99", "d": 641, "t2_med": {"beta": 606, "adps16": 177.0, "matzov": 195.4}, "t8_q01": {"beta": 588, "adps16": 171.7, "matzov": 190.9}}

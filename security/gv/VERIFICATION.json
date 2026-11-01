@@ -1,0 +1,17 @@
+{
+  "exact_GV_signed_checks": 3,
+  "small_rounding_envelope_bruteforce_cases": 3,
+  "new_C_reconstructed": 2,
+  "baseline_winners_independent_high_precision": 8,
+  "saved_joint_points_reconstructed": 870,
+  "composition_profiles": 475136,
+  "sample_weights_and_exact_normalizers_checked": true,
+  "pruned_banks_reconstructed": 30,
+  "frozen_estimators": 10,
+  "frozen_original_sources_available": true,
+  "new_target_attacks": 0,
+  "new_protocol_timings": 0,
+  "estimates_only": true,
+  "quantum_logical_gate_cost_certified": false,
+  "authentication_128_certified": false
+}

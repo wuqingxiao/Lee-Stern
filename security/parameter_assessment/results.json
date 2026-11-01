@@ -1,0 +1,368 @@
+{
+  "format": "LeeStern-ParameterAssessment-v1",
+  "status": "SCOPED_ASSESSMENT_NOT_SECURITY_PROOF",
+  "date": "2026-10-29",
+  "target": {
+    "security_bits": 128,
+    "classical_only": true,
+    "security_notion": "single-user, strictly sequential active learning, one final impersonation attempt",
+    "FCSD_budget_log2": 166,
+    "FCSD_success_upper": "1/4",
+    "reduction_log2_charge": 164.33091689094988,
+    "non_core_error_log2": -54.016238133481075,
+    "authenticated_rounds": 256,
+    "hash_bits": 384,
+    "salt_bits": 256,
+    "learning_sessions_cap_log2": 20,
+    "performance_configuration": {
+      "rounds": 219,
+      "hash": "SHA-256",
+      "salt_bits": 256,
+      "security_claim": false,
+      "note": "performance settings are not a 128-bit parameter set"
+    }
+  },
+  "sources": {
+    "candidates": "F:\\codex-pj\\ac3\\research\\lee_stern_paper_restructured_20261028\\security\\inputs\\candidates.json",
+    "attack_decision": "F:\\codex-pj\\ac3\\research\\lee_stern_paper_restructured_20261028\\security\\FINAL_PARAMETER_DECISION.json",
+    "authentication_ledger": "F:\\codex-pj\\ac3\\research\\lee_stern_paper_restructured_20261028\\security\\inputs\\baseline_and_authentication.json",
+    "verification": "F:\\codex-pj\\ac3\\research\\lee_stern_paper_restructured_20261028\\security\\final_round\\VERIFICATION.json",
+    "source_sha256": {
+      "security/inputs/candidates.json": "0d2c4b6c59cf1bab6a77452ac9f9442dd28277024c462f3741bd56729a3bbd4b",
+      "security/FINAL_PARAMETER_DECISION.json": "ee948b7960962dd182e25d0b635e4c87c0992f8c532fa6b5899b73df2a424899",
+      "security/inputs/baseline_and_authentication.json": "b6e3889949da0df6a247ddbd4d0eb978e856c960ab8d2ed7daaea2be26a16f99",
+      "security/config.json": "967d625862d79c01a3dd104c691ce73f676a2ed3046cd989c45da6fcb263b15c",
+      "security/final_round/VERIFICATION.json": "2d502bb6c9075762c9a513cd4934940d208d40ee1c9aedcee2ebe1c2ffa5d6bf"
+    },
+    "verification_status": "PASS",
+    "target_attack_executed": false,
+    "verification_scope": "model consistency and saved-certificate replay; not a global security proof"
+  },
+  "candidates": [
+    {
+      "name": "p251_n640_k320_8ee9e91cdd53",
+      "recipe": "geometric:2",
+      "p": 251,
+      "n": 640,
+      "k": 320,
+      "weight": 1272,
+      "C_sha256": "12d93b244774c6c442f70a0ac6906c72d3dd7bc119b0c9674cf63926c646168e",
+      "C_checks": {
+        "p_is_odd_prime": true,
+        "dimensions": true,
+        "C_length_equals_p": true,
+        "C_entries_nonnegative_integers": true,
+        "C_sum_equals_n": true,
+        "C_lee_weight_matches": true,
+        "C_sha256_matches": true
+      },
+      "C_valid": true,
+      "composition_shape": {
+        "max_count": 151,
+        "nonzero_counts": 25,
+        "zero_counts": 226
+      },
+      "witness_metrics": {
+        "log2_orbit_size": 2147.2903781519162,
+        "log2_syndrome_space": 2550.893937264247,
+        "log2_expected_witnesses_per_random_syndrome": -403.6035591123309,
+        "bits_per_coordinate": 3.355141215862369,
+        "uniform_min_entropy_bits": 2147.2903781519162,
+        "note": "orbit entropy is a search-space size, not a security level; the random-syndrome expectation is a diagnostic, not the cost of sampling the planted instance"
+      },
+      "simple_generic_attack_costs_log2": {
+        "exhaustive_orbit": 2147.2903781519162,
+        "uniform_sampling_expected_trials_upper": 2147.2903781519162,
+        "random_syndrome_preimage_expected": 2550.893937264247,
+        "grover_orbit": 1073.6451890759581,
+        "note": "generic strategies against the planted instance s=He; the random-syndrome preimage figure is a different task and is not the protocol attack cost"
+      },
+      "public_fields_raw": {
+        "matrix_H_bytes": 204800,
+        "syndrome_s_bytes": 320,
+        "composition_C_bytes": 502,
+        "amplitude_T_bytes": 252,
+        "C_minus_T_bytes": 250,
+        "raw_total_bytes": 205622,
+        "bytes_per_field_element": 1,
+        "bytes_per_composition_count": 2,
+        "note": "raw fields only; no seed compression, wire framing, or transport overhead"
+      },
+      "canonical_context_bytes": 205701,
+      "communication": {
+        "rounds": 219,
+        "commitment_bytes_per_round": 96,
+        "challenge_bytes_per_round": 1,
+        "response_bytes_b01": 1984,
+        "response_bytes_b2": 1344,
+        "payload_bytes_b01": 2081,
+        "payload_bytes_b2": 1441,
+        "expected_payload_per_authentication_bytes": 409019.0,
+        "expected_payload_219_rounds_bytes": 409019.0,
+        "note": "uniform three-challenge expectation; public setup is not repeated"
+      },
+      "saved_attack_assessment": {
+        "best_available_constructive_upper_log2": 970.0267555975133,
+        "v7_best_upper_log2": 1079.7972805667005,
+        "v7_best_heuristic_log2": 1066.998172141075,
+        "v7_declared_reserved_GiB": 63.999999940395355,
+        "v7_best_success_lower": "1313/1750",
+        "coverage_statuses": {
+          "DOMAIN_GRID_COMPLETE": 104,
+          "DOMAIN_LIMIT_OR_WORKER_FAILURE": 6,
+          "CURRENT_LAYOUT_RESERVATION_LIMIT": 2
+        },
+        "coverage_gap_count": 8,
+        "cheap_attack_certificate_found_in_saved_rows": false,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false,
+        "security_bits": null,
+        "verdict": "证据不足"
+      },
+      "auth_ledger": {
+        "rounds": 256,
+        "hash_bits": 384,
+        "salt_bits": 256,
+        "learning_sessions_cap": 1048576,
+        "log2_reduction_charge": 164.33091689094988,
+        "required_FCSD_budget_log2": 166,
+        "required_FCSD_success_upper": "1/4",
+        "arithmetic_ledger_under_inherited_premise_passes": true
+      },
+      "evidence_status": {
+        "necessary_orbit_size_ge_2^128": true,
+        "simple_generic_attacks_above_2^128": true,
+        "evaluated_strategy_no_cheap_certificate": true,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false
+      },
+      "verdict": "NOT_APPROVED_EVIDENCE_INSUFFICIENT"
+    },
+    {
+      "name": "p251_n640_k320_3b4c3ac5fd62",
+      "recipe": "seed:wide680",
+      "p": 251,
+      "n": 640,
+      "k": 320,
+      "weight": 1687,
+      "C_sha256": "c00c5c8b0a2f389c66584d70915a12b7ffec0fd5c15bf6bfcd6dcade436ede90",
+      "C_checks": {
+        "p_is_odd_prime": true,
+        "dimensions": true,
+        "C_length_equals_p": true,
+        "C_entries_nonnegative_integers": true,
+        "C_sum_equals_n": true,
+        "C_lee_weight_matches": true,
+        "C_sha256_matches": true
+      },
+      "C_valid": true,
+      "composition_shape": {
+        "max_count": 113,
+        "nonzero_counts": 27,
+        "zero_counts": 224
+      },
+      "witness_metrics": {
+        "log2_orbit_size": 2385.813347616892,
+        "log2_syndrome_space": 2550.893937264247,
+        "log2_expected_witnesses_per_random_syndrome": -165.08058964735528,
+        "bits_per_coordinate": 3.7278333556513936,
+        "uniform_min_entropy_bits": 2385.813347616892,
+        "note": "orbit entropy is a search-space size, not a security level; the random-syndrome expectation is a diagnostic, not the cost of sampling the planted instance"
+      },
+      "simple_generic_attack_costs_log2": {
+        "exhaustive_orbit": 2385.813347616892,
+        "uniform_sampling_expected_trials_upper": 2385.813347616892,
+        "random_syndrome_preimage_expected": 2550.893937264247,
+        "grover_orbit": 1192.906673808446,
+        "note": "generic strategies against the planted instance s=He; the random-syndrome preimage figure is a different task and is not the protocol attack cost"
+      },
+      "public_fields_raw": {
+        "matrix_H_bytes": 204800,
+        "syndrome_s_bytes": 320,
+        "composition_C_bytes": 502,
+        "amplitude_T_bytes": 252,
+        "C_minus_T_bytes": 250,
+        "raw_total_bytes": 205622,
+        "bytes_per_field_element": 1,
+        "bytes_per_composition_count": 2,
+        "note": "raw fields only; no seed compression, wire framing, or transport overhead"
+      },
+      "canonical_context_bytes": 205701,
+      "communication": {
+        "rounds": 219,
+        "commitment_bytes_per_round": 96,
+        "challenge_bytes_per_round": 1,
+        "response_bytes_b01": 1984,
+        "response_bytes_b2": 1344,
+        "payload_bytes_b01": 2081,
+        "payload_bytes_b2": 1441,
+        "expected_payload_per_authentication_bytes": 409019.0,
+        "expected_payload_219_rounds_bytes": 409019.0,
+        "note": "uniform three-challenge expectation; public setup is not repeated"
+      },
+      "saved_attack_assessment": {
+        "best_available_constructive_upper_log2": 1117.7909975441678,
+        "v7_best_upper_log2": 1258.2107112675553,
+        "v7_best_heuristic_log2": 1245.41160284193,
+        "v7_declared_reserved_GiB": 63.9999995008111,
+        "v7_best_success_lower": "1313/1750",
+        "coverage_statuses": {
+          "DOMAIN_GRID_COMPLETE": 102,
+          "DOMAIN_LIMIT_OR_WORKER_FAILURE": 8,
+          "CURRENT_LAYOUT_RESERVATION_LIMIT": 2
+        },
+        "coverage_gap_count": 10,
+        "cheap_attack_certificate_found_in_saved_rows": false,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false,
+        "security_bits": null,
+        "verdict": "证据不足"
+      },
+      "auth_ledger": {
+        "rounds": 256,
+        "hash_bits": 384,
+        "salt_bits": 256,
+        "learning_sessions_cap": 1048576,
+        "log2_reduction_charge": 164.33091689094988,
+        "required_FCSD_budget_log2": 166,
+        "required_FCSD_success_upper": "1/4",
+        "arithmetic_ledger_under_inherited_premise_passes": true
+      },
+      "evidence_status": {
+        "necessary_orbit_size_ge_2^128": true,
+        "simple_generic_attacks_above_2^128": true,
+        "evaluated_strategy_no_cheap_certificate": true,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false
+      },
+      "verdict": "NOT_APPROVED_EVIDENCE_INSUFFICIENT"
+    },
+    {
+      "name": "p251_n640_k320_a17a2941ee99",
+      "recipe": "seed:wide700",
+      "p": 251,
+      "n": 640,
+      "k": 320,
+      "weight": 1737,
+      "C_sha256": "54d2ece93a0b48339c577343df3190dc711819ddfbf11e4b0d31def7cad2c398",
+      "C_checks": {
+        "p_is_odd_prime": true,
+        "dimensions": true,
+        "C_length_equals_p": true,
+        "C_entries_nonnegative_integers": true,
+        "C_sum_equals_n": true,
+        "C_lee_weight_matches": true,
+        "C_sha256_matches": true
+      },
+      "C_valid": true,
+      "composition_shape": {
+        "max_count": 108,
+        "nonzero_counts": 25,
+        "zero_counts": 226
+      },
+      "witness_metrics": {
+        "log2_orbit_size": 2408.036490373413,
+        "log2_syndrome_space": 2550.893937264247,
+        "log2_expected_witnesses_per_random_syndrome": -142.85744689083413,
+        "bits_per_coordinate": 3.762557016208458,
+        "uniform_min_entropy_bits": 2408.036490373413,
+        "note": "orbit entropy is a search-space size, not a security level; the random-syndrome expectation is a diagnostic, not the cost of sampling the planted instance"
+      },
+      "simple_generic_attack_costs_log2": {
+        "exhaustive_orbit": 2408.036490373413,
+        "uniform_sampling_expected_trials_upper": 2408.036490373413,
+        "random_syndrome_preimage_expected": 2550.893937264247,
+        "grover_orbit": 1204.0182451867065,
+        "note": "generic strategies against the planted instance s=He; the random-syndrome preimage figure is a different task and is not the protocol attack cost"
+      },
+      "public_fields_raw": {
+        "matrix_H_bytes": 204800,
+        "syndrome_s_bytes": 320,
+        "composition_C_bytes": 502,
+        "amplitude_T_bytes": 252,
+        "C_minus_T_bytes": 250,
+        "raw_total_bytes": 205622,
+        "bytes_per_field_element": 1,
+        "bytes_per_composition_count": 2,
+        "note": "raw fields only; no seed compression, wire framing, or transport overhead"
+      },
+      "canonical_context_bytes": 205701,
+      "communication": {
+        "rounds": 219,
+        "commitment_bytes_per_round": 96,
+        "challenge_bytes_per_round": 1,
+        "response_bytes_b01": 1984,
+        "response_bytes_b2": 1344,
+        "payload_bytes_b01": 2081,
+        "payload_bytes_b2": 1441,
+        "expected_payload_per_authentication_bytes": 409019.0,
+        "expected_payload_219_rounds_bytes": 409019.0,
+        "note": "uniform three-challenge expectation; public setup is not repeated"
+      },
+      "saved_attack_assessment": {
+        "best_available_constructive_upper_log2": 1118.6624642892946,
+        "v7_best_upper_log2": 1276.016884407502,
+        "v7_best_heuristic_log2": 1263.2177759818765,
+        "v7_declared_reserved_GiB": 63.99999978393316,
+        "v7_best_success_lower": "1313/1750",
+        "coverage_statuses": {
+          "DOMAIN_GRID_COMPLETE": 102,
+          "DOMAIN_LIMIT_OR_WORKER_FAILURE": 8,
+          "CURRENT_LAYOUT_RESERVATION_LIMIT": 2
+        },
+        "coverage_gap_count": 10,
+        "cheap_attack_certificate_found_in_saved_rows": false,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false,
+        "security_bits": null,
+        "verdict": "证据不足"
+      },
+      "auth_ledger": {
+        "rounds": 256,
+        "hash_bits": 384,
+        "salt_bits": 256,
+        "learning_sessions_cap": 1048576,
+        "log2_reduction_charge": 164.33091689094988,
+        "required_FCSD_budget_log2": 166,
+        "required_FCSD_success_upper": "1/4",
+        "arithmetic_ledger_under_inherited_premise_passes": true
+      },
+      "evidence_status": {
+        "necessary_orbit_size_ge_2^128": true,
+        "simple_generic_attacks_above_2^128": true,
+        "evaluated_strategy_no_cheap_certificate": true,
+        "general_FCSD_premise_established": false,
+        "supports_complete_classical128": false
+      },
+      "verdict": "NOT_APPROVED_EVIDENCE_INSUFFICIENT"
+    }
+  ],
+  "summary": {
+    "candidates_total": 3,
+    "candidates_C_valid": 3,
+    "candidates_orbit_size_ge_2^128": 3,
+    "candidates_simple_generic_attacks_above_2^128": 3,
+    "candidates_with_general_FCSD_premise": 0,
+    "candidates_supporting_complete_classical128": 0,
+    "approved_candidates": 0,
+    "performance_measurement_triggered": false,
+    "performance_measurement_reason": "No candidate passed the step-3 security gate; step 4 is not run for a secure-parameter claim. Existing Chapter 6 timings use a different scaled composition family and are engineering evidence only."
+  },
+  "claim_boundary": {
+    "supported": [
+      "all three fixed C pass the composition and hash checks",
+      "all three have witness-orbit entropy far above 2^128",
+      "simple exhaustive and random-sampling attacks are far above 2^128",
+      "the saved finite-grid search found no cheap attack certificate",
+      "the conditional authentication arithmetic passes only if the general FCSD premise is assumed"
+    ],
+    "not_supported": [
+      "any of the three candidates is a concrete classical 128-bit parameter",
+      "the best attack cost is at least 2^128",
+      "general FCSD hardness at the required budget",
+      "full impersonation security",
+      "lattice, advanced Hamming/multiset, algebraic, or quantum attacks have been excluded",
+      "the repair is more efficient than the original protocol"
+    ]
+  }
+}

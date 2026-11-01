@@ -1,0 +1,48 @@
+{
+  "vendor/v61/competitive.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\competitive.py",
+    "sha256": "7786d58523a8d891599c6e84d0ed5d562d5f178f161bc1dbae29fffd88987fad"
+  },
+  "vendor/v61/memory_contract.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\memory_contract.py",
+    "sha256": "a72d443aeff0f71eede97944f77da93738e8453726e868154fdc481a221d550d"
+  },
+  "vendor/v61/vendor/domain.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\domain.py",
+    "sha256": "40dab895161d013cfb008cc7c9c34dad5c8dcd98d665a7a35e515f08b0bab3f7"
+  },
+  "vendor/v61/vendor/model.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\model.py",
+    "sha256": "9fe4348b36671b273ebedd0ac904481d3655b8fe86d52ce5e763b702aabe5e14"
+  },
+  "vendor/v61/vendor/moments.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\moments.py",
+    "sha256": "fe66cdf52add291826fd1c591a27e7081aafd5c02d205b54fb438d1917e92583"
+  },
+  "vendor/v61/vendor/prior_prices.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\prior_prices.py",
+    "sha256": "9dd9b926a111a5860f3045ada4bf59d2f6e0d2a173928c6dfe78df81a1e15002"
+  },
+  "vendor/v61/vendor/reference_domain.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\reference_domain.py",
+    "sha256": "9053502941c09869d02d1588459c104647a24e374b4a7530e8b34e683c35288e"
+  },
+  "vendor/v61/vendor/reference_kernel.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\reference_kernel.py",
+    "sha256": "f0a7ed86ae35d30a419ab08e6ff6259821fe367199d62216487df29eb9369a03"
+  },
+  "vendor/v61/vendor/sampling.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\sampling.py",
+    "sha256": "4199e08e8dbfd579c4f624e6ed9ef0dea57eecce001a0a60c890fa5f38f16943"
+  },
+  "vendor/v61/vendor/streamed.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\vendor\\streamed.py",
+    "sha256": "a36ed30d93254606c4c39d47ad8e0ad16791e8d5d7baf2b72bc1089eee40da1c"
+  },
+  "execution.py": {
+    "source": "research\\stern_competitive_schedule_v6_1\\streaming.py",
+    "origin_sha256": "7c3c8d7e57b2fb742e2858fe3953325850cd20310c07037df3c720c9f6b41656",
+    "sha256": "38d50ec6414d9e059eceaa87a6c138b946e63a54ef1dcb3384403138dc92a55c",
+    "change": "only model import changed; same repaired packed execution"
+  }
+}

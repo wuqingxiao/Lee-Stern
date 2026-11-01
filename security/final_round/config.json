@@ -1,0 +1,89 @@
+{
+  "memory_bytes": 68719476736,
+  "fixed_E": {
+    "ells": [
+      2,
+      8,
+      16,
+      32
+    ],
+    "radii": [
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "q": [
+      1,
+      4,
+      8,
+      16,
+      32
+    ],
+    "asymmetry_shifts": [
+      -4,
+      0,
+      4
+    ],
+    "DP_cell_limit": 500000
+  },
+  "full_union": {
+    "ells": [
+      8,
+      32
+    ],
+    "radius_q_pairs": [
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        8,
+        16
+      ]
+    ],
+    "asymmetry_shifts": [
+      -4,
+      0,
+      4
+    ],
+    "candidate_histogram_limit": 50000,
+    "worker_wall_seconds": 4
+  },
+  "u_rule": "1, floor(ell/3), ceil(ell/3), ell-1 (deduplicated)",
+  "include_p_power_lists": true,
+  "list_bits": [
+    24
+  ],
+  "blocks": [
+    1048576,
+    16777216
+  ],
+  "schedules": [
+    "resident",
+    "tiled_partial",
+    "tiled_full"
+  ],
+  "tile_records": 1048576,
+  "external_candidates_must_equal_frozen_inputs": true,
+  "authentication_target": "classical128",
+  "required_FCSD_budget_log2": 166,
+  "required_FCSD_success_upper": "1/4"
+}

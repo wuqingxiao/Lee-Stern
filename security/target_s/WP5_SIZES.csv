@@ -1,0 +1,14 @@
+group,n_or_case,bytes_per_round,bytes_total,note
+table_6_2,256,673.00,147387,"161 B overhead, 219 rounds (manuscript table 6.2)"
+table_6_2,512,1526.33,334267,"161 B overhead, 219 rounds (manuscript table 6.2)"
+table_6_2,768,2209.00,483771,"161 B overhead, 219 rounds (manuscript table 6.2)"
+table_6_2,1024,2891.67,633275,"161 B overhead, 219 rounds (manuscript table 6.2)"
+branches,measured b=0/1,3233,8675,161+nB_n+nB_p
+branches,measured b=2,2209,,161+2nB_p
+branches,security b=0/1,3361,9059,289+nB_n+nB_p
+branches,security b=2,2337,,289+2nB_p
+session,measured N=256,2891.67,740266.67,722.92 KiB
+session,security N=256,3019.67,773034.67,754.92 KiB
+session,delta,128,32768,"32 KiB, independent of n"
+composition,frozen C,25 nonzero counts,2025,"log2|S_C|=3460.24, log2 p^k=4081.43"
+composition,C_n=4*C_256,16 nonzero counts,1480,log2|S_C|=3033.99

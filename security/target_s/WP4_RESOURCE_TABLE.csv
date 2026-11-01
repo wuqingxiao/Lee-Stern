@@ -1,0 +1,17 @@
+group,quantity,value,log2,rationale
+symbols,J = LT,86436216832,log2=36.330916878,hybrids = attempts
+symbols,R = 1+J+3N,86436217601,log2=36.330916891,executed-A bound of one experiment
+symbols,Q = Rq_A+3J+6N,29412720712961561391050835661750268885864705689088,log2=164.330916891,live queries of ONE experiment
+work,key setup c_G,2147483648,log2=31,H sampling + rank test O(m^2 n)=2^28 field ops + He=2^19 + composition sampler
+work,R*t_A,29412720712961561391050835661750268885605397037056,log2=164.330916891,"t_A <= q_A = 2^128, one oracle call = one step"
+work,J*c_sim,1416170976575488,log2=50.330917,c_sim <= 2^14: three commitments over ~8192-bit inputs + vector ops
+work,3N*c_ver,12582912,log2=23.584963,c_ver <= 2^14 per verification
+work,c_ext,1048576,log2=20,three-opening extraction + He* check
+work,R(L+N+1)*c_io,190075434604524212330496,log2=77.330918,c_io <= 2^13 per round of prefix replay
+work,c_control,4294967296,log2=32,scheduling and counters
+work,c_oracle (extra),0,0,"every oracle call is one step, already inside t_A/c_sim/c_ver"
+total,T_B,29412720712961561391050835851825704906307042025472,log2=164.330916891,"<= 2^166, headroom 1.669083 bits"
+metric,Q*8192 (bit-operation reading),240949008080581110915488445741058202713003669005008896,log2=177.330916891,infeasible at 2^166; the interface is one-call-one-step
+metric,Q' at q_A<=2^115 (bit-operation reading),3590420008906440599493510212615999879133529600,log2=151.330916891,"self-consistent alternative; hiding/binding improve, non-FCSD sum unchanged at the top"
+ledger,non-FCSD sum,,log2=-149.748731184,"must be printed as 2^-149.7487, not 2^-149.75"
+ledger,total,,log2=-135.999895196,"must be printed as 2^-135.9999, not 2^-136"

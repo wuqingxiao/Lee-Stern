@@ -1,0 +1,32 @@
+category,symbol,definition,value_log2,value,status,note
+parameter,p,field characteristic,7.971544,251,frozen,prime
+parameter,n,code length,10,1024,frozen,
+parameter,k,code dimension,9,512,frozen,k/n=1/2
+parameter,m,parity length,9,512,frozen,m=n-k
+parameter,N,final verification rounds,8,256,frozen,security ledger
+parameter,T,max retries per learning round,8.330917,322,frozen,conservative
+parameter,h,hash output bits,9,512,frozen,WP2: 448 withdrawn; h=512 only
+parameter,rho,salt bits,8.321928,320,superseded,WP2 freezes rho=384 (48-byte salt)
+parameter,L,learning rounds,28,268435456,frozen,L=2^20 sessions * 256 rounds
+parameter,S_sess,learning sessions,20,1048576,frozen,L/N
+parameter,J,learning attempts,36.330917,86436216832,frozen,J=L*T
+adversary,t_A,adversary time,128,,target,definition D1
+adversary,q_A,adversary RO queries,128,,target,
+adversary,r_A,adversary random-bit reads,128,,derived,r_A<=t_A
+reduction,R,common prefix executions,36.330917,86436217601,computed,R=1+LT+3N
+reduction,Q,reduction RO queries,164.330917,,computed,Q=R*q_A+3LT+6N
+reduction,T_B,reduction time,166,,target,Covered by Assumption F
+reduction,M_B,reduction memory,,,unbounded,Formula S.4; no 64GiB transfer
+assumption,W,FCSD work bound,166,,assumption,Covers T_B not t_A
+assumption,Q_F,FCSD query bound,164.4,,assumption,
+assumption,epsilon_F,FCSD success bound,-136,,assumption,Target S
+ledger,knowledge,(2/3)^N,-149.750400,,proved,
+ledger,retry,L*(2/3)^T,-160.357925,,proved,
+ledger,hiding,L*T*2*q_A/2^rho,-154.669083,,superseded,WP2 rejects q_A count; J*2Q/2^rho = -182.338166 at rho=384
+ledger,binding,q_A^2/2^h,-256,,superseded,WP2 rejects q_A^2 count; binom(Q,2)/2^h = -184.338166
+ledger,truncation,(2LT+2)*delta_0,-160.7,,WP5,delta_0<=2^-198; WP2 exact -160.669083
+ledger,non_core,sum of above,-149.701858,,superseded,WP2 value -149.748731
+ledger,total,epsilon_F+non_core,-135.999892,,target,<2^-128; WP2 value -135.999895
+performance,rounds_219,performance rounds,7.774787,219,measurement,not security
+performance,knowledge_219,(2/3)^219,-128.106788,,measurement,reliability only
+performance,ratio_256_219,256/219,0.224945,1.16895,conversion,no direct timing scaling

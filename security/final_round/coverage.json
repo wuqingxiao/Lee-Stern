@@ -1,0 +1,3998 @@
+[
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      2,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 42,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      8,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      16,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      2,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      3,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      4,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      6,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      8
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "fixed_E",
+    "case": [
+      32,
+      8,
+      32
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132,
+    "templates": 3
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_8ee9e91cdd53",
+    "family": "full_union",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_3b4c3ac5fd62",
+    "family": "full_union",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 156
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      3,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      8,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      1
+    ],
+    "status": "DOMAIN_GRID_COMPLETE",
+    "points": 132
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      3,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      1
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "Traceback (most recent call last):\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 163, in <module>\n    if a.union_job:union_worker(read(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 78, in recurse\n    raise CapacityLimit('histogram DFS limit; no partial domain returned')\ndomain.CapacityLimit: histogram DFS limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      4,
+      4
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ead(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 1 more time]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      6,
+      8
+    ],
+    "status": "DOMAIN_LIMIT_OR_WORKER_FAILURE",
+    "reason": "ad(a.union_job),a.union_result)\n                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\run_round.py\", line 99, in union_worker\n    d=model.old.Domain(cfg['p'],(cfg['k']+ell)//2,ts[0]['a'],q,radius,max_candidates=config['full_union']['candidate_histogram_limit'])\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 89, in __init__\n    else:recurse(1,h-high,0,high,())\n         ~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 84, in recurse\n    recurse(w+1,remaining-count,weight+w*count,high,path+(count,))\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  [Previous line repeated 3 more times]\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 81, in recurse\n    if weight>=a:accept(path,weight,high)\n                 ~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"F:\\codex-pj\\ac3\\research\\stern_final_parameter_decision_v7\\vendor\\v61\\vendor\\domain.py\", line 55, in accept\n    raise CapacityLimit('candidate histogram limit; no partial domain returned')\ndomain.CapacityLimit: candidate histogram limit; no partial domain returned\n"
+  },
+  {
+    "candidate": "p251_n640_k320_a17a2941ee99",
+    "family": "full_union",
+    "case": [
+      32,
+      8,
+      16
+    ],
+    "status": "CURRENT_LAYOUT_RESERVATION_LIMIT",
+    "reason": "declared cache reservation alone exceeds64GiB; not general attack exclusion"
+  }
+]

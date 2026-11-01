@@ -1,0 +1,4 @@
+p251_n1024_k512_geometric2_scaled    KMP  1416.4  4-list  710.0  8-list  377.9  Wagner  711.5 (a=2,u=267)  extreme  197.8 (a=15,u=367)
+p251_n640_k320_8ee9e91cdd53          KMP   886.2  4-list  440.5  8-list  234.4  Wagner  443.1 (a=2,u=166)  extreme  128.1 (a=15,u=227)
+p251_n640_k320_3b4c3ac5fd62          KMP   972.9  4-list  504.2  8-list  271.0  Wagner  506.9 (a=2,u=190)  extreme  146.0 (a=15,u=263)
+p251_n640_k320_a17a2941ee99          KMP   979.4  4-list  509.8  8-list  274.4  Wagner  512.2 (a=2,u=192)  extreme  148.0 (a=15,u=267)

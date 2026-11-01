@@ -1,0 +1,21 @@
+[
+ {
+  "name": "p251_n1024_k512_geometric2_scaled",
+  "error": "ValueError('Calling ceil() on infinity or NaN')"
+ },
+ {
+  "name": "p251_n640_k320_8ee9e91cdd53",
+  "stddev": 2.8619267985048116,
+  "log2_rop": 196.5,
+  "log2_m": 185.7,
+  "log2_mem": 186.3
+ },
+ {
+  "name": "p251_n640_k320_3b4c3ac5fd62",
+  "error": "TypeError('unsupported format string passed to sage.symbolic.expression.Expression.__format__')"
+ },
+ {
+  "name": "p251_n640_k320_a17a2941ee99",
+  "error": "TypeError('unsupported format string passed to sage.symbolic.expression.Expression.__format__')"
+ }
+]

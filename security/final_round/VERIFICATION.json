@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "saved_certificates_recomputed": 6,
+  "points_verified": 35802,
+  "source_bindings_verified": true,
+  "exact_C_verified": 3,
+  "coverage_statuses": {
+    "DOMAIN_GRID_COMPLETE": 308,
+    "DOMAIN_LIMIT_OR_WORKER_FAILURE": 22,
+    "CURRENT_LAYOUT_RESERVATION_LIMIT": 6
+  },
+  "all_worker_failures_are_explicit_capacity_limits": true,
+  "worker_failure_tails": {
+    "domain.CapacityLimit: histogram DFS limit; no partial domain returned": 10,
+    "domain.CapacityLimit: candidate histogram limit; no partial domain returned": 12
+  },
+  "declared_memory_bound_bytes": 68719476736,
+  "physical_RSS_certified": false,
+  "target_attack_executed": false,
+  "check_is_model_consistency_not_global_security_proof": true
+}

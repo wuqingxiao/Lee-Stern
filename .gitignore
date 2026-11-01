@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+*.log
+*.tmp
+*.bin
+*.jsonl
+node_modules/
+build/pdfpages/
+build/render_tools/node_modules/
+*.bak_*

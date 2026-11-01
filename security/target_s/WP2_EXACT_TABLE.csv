@@ -1,0 +1,41 @@
+group,quantity,value,detail
+parameters,p,251,
+parameters,n,1024,
+parameters,k,512,
+parameters,N,256,final verification rounds
+parameters,T,322,retries per learning round
+parameters,L,268435456,learning rounds = 2^20 sessions x N
+parameters,J,86436216832,hybrids = LT
+parameters,R,86436217601,1+J+3N; also the executed-A bound of Lemma T.2
+parameters,q_A,340282366920938463463374607431768211456,per-branch query cap
+parameters,Q,29412720712961561391050835661750268885864705689088,live RO queries in one experiment
+parameters,h,512,WP2 frozen; 448 rejected
+parameters,rho,384,WP2 frozen; 320 rejected
+hiding,eps_H per hybrid = 2Q/2^rho,,log2=-218.669083109
+hiding,sum J*eps_H (frozen rho=384),,log2=-182.338166231
+hiding,sum with correct count at rho=320,,log2=-118.338166231
+hiding,sum with WP1 q_A-only at rho=320,,log2=-154.669083122
+hiding,sum with WP1 q_A-only at rho=384,,log2=-218.669083122
+binding,"binom(Q,2)/2^512 (frozen)",,log2=-184.338166218
+binding,q_A^2/2^512 (rejected),,log2=-257.000000000
+binding,"binom(Q,2)/2^448 (rejected)",,log2=-120.338166218
+ledger,knowledge (2/3)^256,,log2=-149.750400185
+ledger,retry 2^28(2/3)^322,,log2=-160.357925232
+ledger,truncation (2J+2)2^-198,,log2=-160.669083122
+ledger,non-FCSD sum,,log2=-149.748731184
+ledger,FCSD assumption F,,-136 (assumption; WP3 evidence)
+ledger,total,,log2=-135.999895196
+sensitivity,rho_min for 2^-149.5 (h=512),360,multiple of 8
+sensitivity,h_min for 2^-149.5 (rho=384),480,multiple of 8
+sensitivity,T_min for L(2/3)^T <= 2^-160,322,
+communication,salt bytes,48,rho=384 (WP1 provisional had 40)
+communication,digest bytes,64,h=512 (WP1 provisional had 64)
+communication,commitment leg bytes,192,three digests only
+communication,"fixed per-round overhead, security",289,"3 digests + 1 challenge byte + 2 salts, same accounting as the measured 161 B"
+communication,"fixed per-round overhead, measured",161,Ch.6 configuration: SHA-256 + 32-byte salts
+communication,overhead growth per round,128,+32 KiB over the 256-round session
+diagnostic,log2 |S_C| upper bound (even spread over 251 values),7571.7,"maximum over all compositions, not a usable C"
+diagnostic,log2 p^k,4081.4,
+diagnostic,equal-density n=1024 estimate from the recorded n=640 range,3435.7-3852.9,both below log2 p^k: multiplicity sign undetermined until WP3 freezes C
+audit,hiding sum if 3 salts per attempt stay hidden,,log2=-180.753203730; sum=-149.748731183; still under 2^-149.5
+audit,margin of total over 2^-128,7.9999,assumption-dominated; non-FCSD margin=21.7487

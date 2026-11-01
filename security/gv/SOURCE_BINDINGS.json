@@ -1,0 +1,42 @@
+{
+  "li_wang_lmmt.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\li_wang_lmmt.py",
+    "sha256": "b1063a54ca2ae233117673936348b40166188aa6145920cae8f0836e333739a8"
+  },
+  "li_wang_table1.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\li_wang_table1.py",
+    "sha256": "6687f15d70c7ba86639835de44a916c2c23307c97a591cfa4cba8a6decc12af6"
+  },
+  "verify_li_wang_table1.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\verify_li_wang_table1.py",
+    "sha256": "913b4a456054b5c1b8e37db5a07f74ceffb11e047119147114839bf89ef44332"
+  },
+  "baseline.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_lmmt_baseline_supplement_v1\\baseline.py",
+    "sha256": "2c353824ce59172930a7ab421ca9d7699970d4c57176d0ae0276e2f8ec09888d"
+  },
+  "composition_profile.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_lmmt_baseline_supplement_v1\\composition_profile.py",
+    "sha256": "0e1db258c13576a36401b615c2df39853b77b4eafbb2b8c135d0d024a7b33c71"
+  },
+  "joint_estimator.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_lmmt_baseline_supplement_v1\\joint_estimator.py",
+    "sha256": "ae3e8e61eba7f7594e5314067e62329407175666ff988bcd521fcddba19af801"
+  },
+  "resource_certificate.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_lmmt_scope_frozen_v1\\finalize_scope.py",
+    "sha256": "af9f7592dd2eda3758b325efc0fdc7a60ca1c4a401c5acd24d41df2acd025e97"
+  },
+  "elementary_guessing.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_attack_coverage_v1\\hamming.py",
+    "sha256": "6c1c04b1885a95919548cf226b497a50d07a2936fc8738cf35e4a9faf2546131"
+  },
+  "gv_math.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\lee_gv_alignment_audit_v1\\audit_lee_gv.py",
+    "sha256": "51aff75afd40aa580af04dc775b195fc25affef32d154313d0a1745bab236b72"
+  },
+  "verify_joint_banks.py": {
+    "source": "F:\\codex-pj\\ac3\\research\\stern_lmmt_baseline_supplement_v1\\finalize_joint.py",
+    "sha256": "3622a50eb6aad0b622dcd18e88b0bcd5df2cff6c9da6d68c34d6c7e1bc1ed3b0"
+  }
+}

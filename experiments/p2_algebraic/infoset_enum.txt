@@ -1,0 +1,4 @@
+p251_n1024_k512_geometric2_scaled    log2|S_C|=  3460.2  info-set enumeration ~ 2^ 1755.2
+p251_n640_k320_8ee9e91cdd53          log2|S_C|=  2147.3  info-set enumeration ~ 2^ 1095.4
+p251_n640_k320_3b4c3ac5fd62          log2|S_C|=  2385.8  info-set enumeration ~ 2^ 1218.3
+p251_n640_k320_a17a2941ee99          log2|S_C|=  2408.0  info-set enumeration ~ 2^ 1229.4

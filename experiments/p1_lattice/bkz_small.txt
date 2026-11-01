@@ -1,0 +1,8 @@
+k=40 rep=0 beta_found=34 sigma=2.567 t=2.8s
+k=40 rep=1 beta_found=22 sigma=2.567 t=1.2s
+k=40 rep=2 beta_found=18 sigma=2.567 t=0.9s
+{'k': 40, 'd': 81, 'beta_pred': 47, 'beta_found': [34, 22, 18], 'beta_median': 22}
+k=50 rep=0 beta_found=50 sigma=2.653 t=42.8s
+k=50 rep=1 beta_found=48 sigma=2.653 t=30.0s
+k=50 rep=2 beta_found=46 sigma=2.653 t=20.3s
+{'k': 50, 'd': 101, 'beta_pred': 67, 'beta_found': [50, 48, 46], 'beta_median': 48}

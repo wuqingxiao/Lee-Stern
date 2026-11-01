@@ -1,0 +1,12 @@
+{'name': 'p251_n1024_k512_geometric2_scaled', 'power_sums': False, 'nv': 512, 'deg': 25, 'dreg': None}
+{'name': 'p251_n1024_k512_geometric2_scaled', 'power_sums': True, 'nv': 511, 'deg': 25, 'dreg': None}
+{'name': 'p251_n1024_k512_geometric2_scaled', 'linearisation_log2_monomials_deg_supp': 142.2, 'equations': 1024}
+{'name': 'p251_n640_k320_8ee9e91cdd53', 'power_sums': False, 'nv': 320, 'deg': 25, 'dreg': None}
+{'name': 'p251_n640_k320_8ee9e91cdd53', 'power_sums': True, 'nv': 319, 'deg': 25, 'dreg': None}
+{'name': 'p251_n640_k320_8ee9e91cdd53', 'linearisation_log2_monomials_deg_supp': 125.8, 'equations': 640}
+{'name': 'p251_n640_k320_3b4c3ac5fd62', 'power_sums': False, 'nv': 320, 'deg': 27, 'dreg': None}
+{'name': 'p251_n640_k320_3b4c3ac5fd62', 'power_sums': True, 'nv': 319, 'deg': 27, 'dreg': None}
+{'name': 'p251_n640_k320_3b4c3ac5fd62', 'linearisation_log2_monomials_deg_supp': 133.2, 'equations': 640}
+{'name': 'p251_n640_k320_a17a2941ee99', 'power_sums': False, 'nv': 320, 'deg': 25, 'dreg': None}
+{'name': 'p251_n640_k320_a17a2941ee99', 'power_sums': True, 'nv': 319, 'deg': 25, 'dreg': None}
+{'name': 'p251_n640_k320_a17a2941ee99', 'linearisation_log2_monomials_deg_supp': 125.8, 'equations': 640}

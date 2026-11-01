@@ -1,0 +1,181 @@
+{
+  "work_package": "WP1",
+  "title": "Statement and model freeze for conditional classical 128-bit security",
+  "date": "2026-10-29",
+  "status": "frozen_draft_v1",
+  "target": {
+    "name": "Target S",
+    "definition": "Adv_imp <= 2^-128 for any classical adversary with t_A <= 2^128 and q_A <= 2^128",
+    "theorem_bound_log2": -136,
+    "margin_bits": 8,
+    "not_target_W": true,
+    "not_work_factor_only": true
+  },
+  "parameters": {
+    "p": 251,
+    "n": 1024,
+    "k": 512,
+    "m": 512,
+    "N": 256,
+    "T": 322,
+    "h": 512,
+    "rho": 320,
+    "L_log2": 28,
+    "L": 268435456,
+    "sessions_log2": 20,
+    "q_A_log2": 128,
+    "t_A_log2": 128
+  },
+  "resources": {
+    "R": 86436217601,
+    "R_log2": 36.330916890949894,
+    "Q_log2": 164.33091689094988,
+    "J": 86436216832,
+    "J_log2": 36.330916878114614,
+    "T_B_log2_upper": 166,
+    "M_B": "formula S.4; no concrete bound; no 64GiB transfer"
+  },
+  "assumption_F": {
+    "statement": "For fixed C, uniform full-rank H, e <- U(S_C), s=He, every classical algorithm B with work <= 2^166 and RO queries <= 2^164.4 succeeds with probability <= 2^-136.",
+    "W_log2": 166,
+    "Q_F_log2": 164.4,
+    "epsilon_log2": -136,
+    "classical": true,
+    "fixed_C": true,
+    "memory": "unbounded as stated; add M_F if aligned with G2 64GiB"
+  },
+  "ledger": {
+    "knowledge_log2": -149.750400184616,
+    "retry_log2": -160.35792523221232,
+    "hiding_log2": -154.6690831218854,
+    "binding_log2": -256,
+    "binding_h448_log2": -192,
+    "truncation_log2_upper": -160.7,
+    "non_core_log2": -149.70185775109576,
+    "fcsd_log2": -136,
+    "total_log2": -135.9998917890805
+  },
+  "scope": {
+    "classical": true,
+    "users": 1,
+    "sequential": true,
+    "interleaved": false,
+    "active_learning": true,
+    "final_impersonations": 1,
+    "honest_final_verifier": true,
+    "ideal_random_oracle": true,
+    "concurrent": false,
+    "reset": false,
+    "relay": false,
+    "multi_user": false,
+    "malicious_final_verifier": false,
+    "quantum": false,
+    "standard_model_hash": false,
+    "adaptive_C": false
+  },
+  "wp2_supersession": {
+    "status": "superseded_on_hiding_and_binding_accounting_and_parameters",
+    "by": "WP2_DECISIONS.json / WP2_LEDGER.md (2026-10-29)",
+    "reason": "WP1 recorded two tightenings (hiding 2*q_A/2^rho, binding q_A^2/2^h). WP2 showed both are unsound: the random oracle is a single fixed function for the whole experiment, so every one of the R=1+J+3N executions of A issues fresh queries against the same hidden salt. Live count is Q, not q_A. Counterexamples C.1 and C.2 are written in WP2_LEDGER.md sections 3 and 4.",
+    "superseded_fields": {
+      "parameters.rho": {
+        "wp1": 320,
+        "wp2": 384,
+        "note": "D4 replaced by D4'"
+      },
+      "parameters.h_floor": {
+        "wp1": "h=448 acceptable (D3)",
+        "wp2": "h=448 withdrawn; h=512 frozen (D3')"
+      },
+      "ledger.hiding_log2": {
+        "wp1": -154.6690831218854,
+        "wp2": -182.33816623093549,
+        "note": "wp1 value used the inadmissible q_A-only count; correct value at rho=320 would be -118.33816623093549"
+      },
+      "ledger.binding_log2": {
+        "wp1": -256,
+        "wp2": -184.33816621810024,
+        "note": "wp1 value used the inadmissible q_A^2 count, which is -257 as written; binom(Q,2)/2^h applies"
+      },
+      "ledger.binding_h448_log2": {
+        "wp1": -192,
+        "wp2": -120.33816621810024,
+        "note": "2*q_A^2/2^448 style figure replaced by binom(Q,2)/2^448; crosses 2^-128, hence withdrawal"
+      },
+      "ledger.non_core_log2": {
+        "wp1": -149.70185775109576,
+        "wp2": -149.74873118356425
+      },
+      "ledger.total_log2": {
+        "wp1": -135.9998917890805,
+        "wp2": -135.9998951958994
+      },
+      "decisions.D3": {
+        "wp1": "h=512; h=448 minimum",
+        "wp2": "D3': h=512 frozen, h=448 withdrawn"
+      },
+      "decisions.D4": {
+        "wp1": "rho=320, not 384",
+        "wp2": "D4': rho=384"
+      },
+      "gates.WP2": {
+        "wp1": "Prove tightened salt-guess and binding lemmas; non-core <= 2^-149.5",
+        "wp2": "DONE - tightenings disproved, correct bounds proved, non-core 2^-149.749 <= 2^-149.5"
+      },
+      "gates.WP5": {
+        "wp1": "Compute sizes; re-measure at n=1024,N=256,h=512,rho=320",
+        "wp2": "re-measure at n=1024,N=256,h=512,rho=384; salt 48B, digest 64B, commitment leg 192B"
+      }
+    },
+    "unchanged_by_wp2": [
+      "parameters.p",
+      "parameters.n",
+      "parameters.k",
+      "parameters.m",
+      "parameters.N",
+      "parameters.T",
+      "parameters.L",
+      "q_A_log2",
+      "t_A_log2",
+      "resources.R",
+      "resources.Q_log2",
+      "resources.J",
+      "assumption_F",
+      "scope",
+      "paper_integration"
+    ],
+    "conclusion_unchanged": "Theorem S still reads Adv_imp <= 2^-128 under Assumption F(2^166, 2^-136); only rho and the hiding/binding rows move. No pasted paper text changes shape."
+  },
+  "decisions": {
+    "D1": "Target S, not Target W",
+    "D2": "n=1024, not n=640",
+    "D3": "h=512; h=448 minimum",
+    "D4": "rho=320, not 384",
+    "D5": "N=256, not 288",
+    "D6": "T=322, not 304",
+    "D7": "Delta_H is two-world difference; A3 guessing advantage is half",
+    "D8": "C fixed as a system parameter, not per-user random",
+    "D9": "U=1; multi-user needs a separate union bound",
+    "D10": "Ideal RO for the theorem; SHA-256 only for measurement"
+  },
+  "paper_integration": {
+    "new_section": "4.4",
+    "new_equation": "4.2",
+    "equation_count_from": 15,
+    "equation_count_to": 16,
+    "page_count_from": 16,
+    "page_count_estimate_to": 17,
+    "requires_finalize_update": true,
+    "requires_abstract_change": true,
+    "requires_conclusion_change": true,
+    "requires_section4_scope_change": true,
+    "requires_section55_change": true
+  },
+  "gates": {
+    "WP2": "Prove tightened salt-guess and binding lemmas; non-core <= 2^-149.5",
+    "WP3": "Freeze C at n=1024; run G2 ISD/restricted-ball/union; close or list gaps",
+    "WP4": "Integrate proof; verify T_B <= 2^166 and J=LT indexing",
+    "WP5": "Compute sizes; re-measure at n=1024,N=256,h=512,rho=320",
+    "WP6": "Audit; conditional wording only; rebuild package"
+  }
+}

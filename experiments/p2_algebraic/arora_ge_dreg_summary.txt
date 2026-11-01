@@ -1,0 +1,8 @@
+p251_n1024_k512_geometric2_scaled    nv 512 dreg 2806 log2 mono 2053.2 cost w=2 4106.4
+p251_n1024_k512_geometric2_scaled ps nv 511 dreg 2696 log2 mono 2023.5 cost w=2 4047.0
+p251_n640_k320_8ee9e91cdd53    nv 320 dreg 1784 log2 mono 1288.7 cost w=2 2577.4
+p251_n640_k320_8ee9e91cdd53 ps nv 319 dreg 1675 log2 mono 1259.4 cost w=2 2518.8
+p251_n640_k320_3b4c3ac5fd62    nv 320 dreg 1939 log2 mono 1324.2 cost w=2 2648.4
+p251_n640_k320_3b4c3ac5fd62 ps nv 319 dreg 1813 log2 mono 1292.8 cost w=2 2585.6
+p251_n640_k320_a17a2941ee99    nv 320 dreg 1784 log2 mono 1288.7 cost w=2 2577.4
+p251_n640_k320_a17a2941ee99 ps nv 319 dreg 1675 log2 mono 1259.4 cost w=2 2518.8

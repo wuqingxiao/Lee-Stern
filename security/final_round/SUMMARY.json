@@ -1,0 +1,37 @@
+{
+  "status": "DECLARED_FINAL_ROUND_FINISHED",
+  "candidates": 3,
+  "points": 35802,
+  "counts": {
+    "fixed_E_points": 34650,
+    "full_union_points": 1152
+  },
+  "coverage_statuses": {
+    "DOMAIN_GRID_COMPLETE": 308,
+    "DOMAIN_LIMIT_OR_WORKER_FAILURE": 22,
+    "CURRENT_LAYOUT_RESERVATION_LIMIT": 6
+  },
+  "elapsed_seconds": 127.48592700005975,
+  "code_binding": {
+    "execution.py": "38d50ec6414d9e059eceaa87a6c138b946e63a54ef1dcb3384403138dc92a55c",
+    "final_model.py": "e8474caceb16102ee4833844a959ab634008b7ce5ef6d02355a07a5c1465cfca",
+    "fixed_domain.py": "42b28a5a6b8bb10481cbdc7602a4666e019fb6169f7e9313a91d7400ec5d40fe",
+    "run_round.py": "cbf2d63a765d4993cbc29d0e68e44b32c3d5704487a9f3ee008ed6d29ec23d0c",
+    "test_round.py": "482f3f94f1e8120e7b5b7c1502b74758d7b7812d4f726450eacd35843d4bfd85",
+    "vendor/v61/competitive.py": "7786d58523a8d891599c6e84d0ed5d562d5f178f161bc1dbae29fffd88987fad",
+    "vendor/v61/memory_contract.py": "a72d443aeff0f71eede97944f77da93738e8453726e868154fdc481a221d550d",
+    "vendor/v61/vendor/domain.py": "40dab895161d013cfb008cc7c9c34dad5c8dcd98d665a7a35e515f08b0bab3f7",
+    "vendor/v61/vendor/model.py": "9fe4348b36671b273ebedd0ac904481d3655b8fe86d52ce5e763b702aabe5e14",
+    "vendor/v61/vendor/moments.py": "fe66cdf52add291826fd1c591a27e7081aafd5c02d205b54fb438d1917e92583",
+    "vendor/v61/vendor/prior_prices.py": "9dd9b926a111a5860f3045ada4bf59d2f6e0d2a173928c6dfe78df81a1e15002",
+    "vendor/v61/vendor/reference_domain.py": "9053502941c09869d02d1588459c104647a24e374b4a7530e8b34e683c35288e",
+    "vendor/v61/vendor/reference_kernel.py": "f0a7ed86ae35d30a419ab08e6ff6259821fe367199d62216487df29eb9369a03",
+    "vendor/v61/vendor/sampling.py": "4199e08e8dbfd579c4f624e6ed9ef0dea57eecce001a0a60c890fa5f38f16943",
+    "vendor/v61/vendor/streamed.py": "a36ed30d93254606c4c39d47ad8e0ad16791e8d5d7baf2b72bc1089eee40da1c"
+  },
+  "input_sha256": "0d2c4b6c59cf1bab6a77452ac9f9442dd28277024c462f3741bd56729a3bbd4b",
+  "config_sha256": "967d625862d79c01a3dd104c691ce73f676a2ed3046cd989c45da6fcb263b15c",
+  "results_are_upper_budgets_and_labeled_heuristics": true,
+  "target_attack_executed": false,
+  "security_bits": null
+}

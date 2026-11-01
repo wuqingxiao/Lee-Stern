@@ -1,0 +1,4 @@
+p251_n1024_k512_geometric2_scaled    log2|S_C|= 3460.2 H=3.45  KMP 2^ 1396.5 elems (u=175, k1=343, k2=344) ~2^1416.4 bitops  4-list proxy 2^710.0 (u=267)  8-list proxy 2^377.9
+p251_n640_k320_8ee9e91cdd53          log2|S_C|= 2147.3 H=3.46  KMP 2^  867.8 elems (u=108, k1=214, k2=214) ~2^886.2 bitops  4-list proxy 2^440.5 (u=166)  8-list proxy 2^234.4
+p251_n640_k320_3b4c3ac5fd62          log2|S_C|= 2385.8 H=3.85  KMP 2^  954.2 elems (u=120, k1=220, k2=220) ~2^972.9 bitops  4-list proxy 2^504.2 (u=190)  8-list proxy 2^271.0
+p251_n640_k320_a17a2941ee99          log2|S_C|= 2408.0 H=3.88  KMP 2^  960.8 elems (u=120, k1=220, k2=220) ~2^979.4 bitops  4-list proxy 2^509.8 (u=192)  8-list proxy 2^274.4

@@ -1,0 +1,162 @@
+{
+  "work_package": "WP2",
+  "title": "ROM ledger review: hiding and binding accounting, corrected parameter freeze",
+  "date": "2026-10-29",
+  "status": "frozen_v2_supersedes_wp1_parameters_and_ledger (second-pass audit 2026-10-29 applied)",
+  "supersedes": {
+    "file": "WP1_DECISIONS.json",
+    "fields": [
+      "parameters.rho",
+      "parameters.h_floor",
+      "ledger.hiding_log2",
+      "ledger.binding_log2",
+      "ledger.binding_h448_log2",
+      "ledger.non_core_log2",
+      "ledger.total_log2",
+      "decisions.D3",
+      "decisions.D4"
+    ],
+    "unchanged": [
+      "parameters.p",
+      "parameters.n",
+      "parameters.k",
+      "parameters.N",
+      "parameters.T",
+      "parameters.L",
+      "q_A",
+      "assumption_F",
+      "scope",
+      "symbol_conventions"
+    ]
+  },
+  "parameters": {
+    "p": 251,
+    "n": 1024,
+    "k": 512,
+    "N": 256,
+    "T": 322,
+    "L": 268435456,
+    "sessions_log2": 20,
+    "q_A_log2": 128,
+    "t_A_log2": 128,
+    "h": 512,
+    "rho": 384,
+    "salt_bytes": 48,
+    "digest_bytes": 64
+  },
+  "resources": {
+    "J": 86436216832,
+    "J_log2": 36.330916878114614,
+    "R": 86436217601,
+    "R_log2": 36.330916890949894,
+    "Q_log2": 164.33091689094988,
+    "Q_meaning": "live RO queries inside ONE experiment: (1+J+3N) executions x q_A, plus 3J simulator commitments and 6N final-phase evaluations (Lemma T.2). Identical to (S.2).",
+    "T_B_log2_upper": 166
+  },
+  "counting_rule": {
+    "hiding": "sum_j Delta_H(D_j) <= J * min{1, 2*Q/2^rho} + J*(Q+2)/2^h  (Lemma T.1)",
+    "binding": "beta_bind <= min{1, binom(Q,2)/2^h}  (Lemma T.3)",
+    "why_not_q_A": "The RO is one fixed function for the whole experiment; every rewound execution issues up to q_A fresh queries against the same hidden salt, so the live count is the number of executions times q_A, not q_A."
+  },
+  "rejected_wp1_tightenings": {
+    "hiding_qA_only_at_rho320_log2": -154.6690831218854,
+    "hiding_correct_at_rho320_log2": -118.33816623093549,
+    "hiding_correct_at_rho384_log2": -182.33816623093549,
+    "binding_qA_only_at_h512_log2": -257.0,
+    "binding_correct_at_h512_log2": -184.33816621810024,
+    "binding_correct_at_h448_log2": -120.33816621810024,
+    "admissible": false,
+    "consequence": "rho must rise 320 -> 384; the h=448 floor is withdrawn"
+  },
+  "ledger": {
+    "knowledge_log2": -149.75040018461596,
+    "retry_log2": -160.35792523221227,
+    "hiding_log2": -182.33816623093549,
+    "binding_log2": -184.33816621810024,
+    "truncation_log2": -160.6690831218687,
+    "non_core_log2": -149.74873118356425,
+    "fcsd_log2": -136,
+    "total_log2": -135.9998951958994,
+    "acceptance": "non_core <= 2^-149.5 proved exactly as non_core^2 * 2^299 <= 1 in Fractions",
+    "target": "total <= 2^-128 proved exactly. Margin: total sits 7.9999 bits below 2^-128 (Assumption F dominates; erratum 2026-10-30: the total is 0.000105 bits ABOVE 2^-136, so the margin is 8 - 0.000105, not 8.0001); the non-FCSD sum alone sits 21.7487 bits below."
+  },
+  "sensitivity": {
+    "rho_min_for_acceptance": 360,
+    "h_min_for_acceptance": 480,
+    "rho_one_step_below_min": {
+      "value": 352,
+      "non_core_log2": -149.0136
+    },
+    "h_one_step_below_min": {
+      "value": 472,
+      "non_core_log2": -144.3046
+    },
+    "T_min_for_retry_below_2^-160": 322,
+    "N_288_knowledge_log2": -168.4692,
+    "choice_note": "48-byte salt and 64-byte digest are primitive-aligned and keep ~32 extra bits below the knowledge term; 360/480 pass with almost no slack."
+  },
+  "decisions": {
+    "D3_prime": "h=512 frozen; the WP1 'h=448 acceptable' floor is withdrawn because binom(Q,2)/2^448 = 2^-120.34 crosses 2^-128",
+    "D4_prime": "rho=384, superseding WP1's rho=320; the q_A-only salt-guess count that justified 320 is invalid",
+    "D11": "Ledger terms are priced by the number of experiment executions (R), not by per-branch caps, whenever the ROM is a single fixed function",
+    "D12": "The private-placeholder variant (which would restore rho=320) is recorded as WP2-ledger section 5 but NOT adopted; it needs a separate min-entropy lemma and does not hold at n=640 where |S_C| < p^k"
+  },
+  "diagnostics": {
+    "log2_S_C_upper_bound_n1024": 7571.742,
+    "upper_bound_meaning": "maximum of the multinomial over ALL compositions (coordinates spread evenly over the 251 field values); not the value of a usable composition",
+    "log2_p_k_n1024_k512": 4081.43,
+    "equal_density_n1024_from_n640": [
+      3435.7,
+      3852.9
+    ],
+    "multiplicity_sign_n1024": "undetermined until WP3 freezes C: 3435.7 < 4081.4 < 7571.7",
+    "n640_note": "the three published n=640 compositions have log2|S_C| in [2147.29, 2408.04] < log2 p^k = 2550.89, i.e. the witness is essentially determined by (H,s) there",
+    "do_not_write": "must not claim that at n=1024 the witness is not determined by (H,s)"
+  },
+  "communication_impact": {
+    "overhead_security_bytes": 289,
+    "overhead_measured_bytes": 161,
+    "overhead_growth_bytes_per_round": 128,
+    "overhead_growth_per_256_round_session_KiB": 32,
+    "accounting": "3 commitments + 1 challenge byte + 2 opened salts, the same formula Ch.6 uses for 161 B",
+    "vs_wp1_rho320": "salt delta only: 2 x 8 = 16 B/round; the digest delta 3 x 16 = 48 B is the rest",
+    "response_leg": "deferred to WP5; depends on the sigma encoding"
+  },
+  "gates": {
+    "WP2": "DONE (with second-pass audit) - both WP1 tightenings disproved, correct bounds proved, rho/h re-frozen, non_core 2^-149.749 <= 2^-149.5; four wording defects repaired, no number changed",
+    "WP3": "open: freeze C at n=1024; G2 ISD/restricted-ball/union coverage; price or list gaps",
+    "WP4": "open: integrate proof; price T_B <= 2^166 with Q as the experiment-local count",
+    "WP5": "open: sizes and re-measurement at n=1024, N=256, h=512, rho=384",
+    "WP6": "open: paper integration; equation (4.2) still has the same shape, only the rho value and the ledger numbers change"
+  },
+  "hidden_salt_count": {
+    "per_attempt": 1,
+    "source": "Table 3.1: challenge b opens salts (1,2), (1,3) or (2,3) of the three drawn per attempt, so exactly one commitment is never opened",
+    "why_the_J_prefactor_is_legitimate": "each hybrid experiment re-draws its own rho* and re-runs A up to R times, so hybrid j is billed from its own live-query budget Q; the J hybrids do not share one budget and cannot telescope to 2Q/2^rho",
+    "worst_case_3_salts_hiding_log2": -180.753204,
+    "worst_case_3_salts_non_core_log2": -149.748731,
+    "worst_case_passes_acceptance": true
+  },
+  "second_pass_audit": {
+    "date": "2026-10-29",
+    "confirmed": [
+      "Q as the experiment-level live query count (matches PROOF.md R.9)",
+      "hiding sum J*2Q/2^rho including the J prefactor",
+      "binding binom(Q,2)/2^h with no J prefactor (PROOF.md: E_bad is one whole event)",
+      "withdrawal of the h=448 floor",
+      "knowledge/retry/truncation arithmetic",
+      "frozen rho=384, h=512"
+    ],
+    "rejected_doubts_raised_in_the_audit": [
+      "suspicion A: the J prefactor double-counts a shared query budget - FALSE, because rho* is redrawn per hybrid experiment and each experiment carries its own R executions",
+      "suspicion B: three salts per attempt must be hidden, giving 3J - FALSE for the ledger, Table 3.1 leaves exactly one unopened; and the 3J worst case leaves the sum unchanged at 2^-149.748731"
+    ],
+    "wording_fixed": [
+      "total margin over 2^-128 is 7.9999 bits, not 21.75 (21.7487 is the non-FCSD sum's own margin; erratum 2026-10-30: this line originally said 8.0001, which is the total's excess over 2^-136, not its margin under 2^-128)",
+      "the 7571.7-bit figure is an upper bound over all compositions, not the n=1024 composition value; multiplicity sign is undetermined before WP3",
+      "communication: security overhead is 289 B/round against the measured 161 B (+128 B/round, +32 KiB per session), not only +16 B",
+      "WP2_LEDGER.md header and section 9 said 29 checks; the script now runs 55, three of which are definitional identity guards for R and Q"
+    ],
+    "checks_now": 55
+  }
+}

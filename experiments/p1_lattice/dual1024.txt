@@ -1,0 +1,15 @@
+dual          rop:  ≈2^inf
+         mem:  ≈2^inf
+           m:  ≈2^inf
+           β:       47
+         tag:     dual
+dual_hybrid          rop:  ≈2^inf
+         red:  ≈2^inf
+       guess: ≈2^2280.1
+           β:      511
+           p:        2
+           ζ:        0
+           t:        0
+          β':      506
+           N: ≈2^2266.7
+           m:      512
